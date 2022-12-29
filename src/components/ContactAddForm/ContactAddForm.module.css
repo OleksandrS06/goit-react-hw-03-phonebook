@@ -1,0 +1,14 @@
+.submitForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 15px;
+  margin-bottom: 20px;
+}
+.submitForm__btn {
+  font-weight: 700;
+  background-color: rgb(186, 243, 94);
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
